@@ -1,5 +1,5 @@
 ﻿# AIDI_2004 Lab 2
-
+---
 ## Files Description
 
 ### victoria_model_v1.ipynb
@@ -19,6 +19,3 @@ This Python file contains the updated version of the data model. It includes:
 - **Model Tuning:** Optimizing model parameters.
 - **Final Evaluation:** Validating the final model.
 
----
-
-This should fit a more student-like style.
