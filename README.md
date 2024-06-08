@@ -17,7 +17,6 @@ This Python file contains the updated version of the data model. It includes:
 - **Improved Data Cleaning:** Better handling of missing values and outliers.
 - **Advanced Feature Engineering:** Adding more features.
 - **Model Tuning:** Optimizing model parameters.
-- **Comparison of Models:** Comparing different models.
 - **Final Evaluation:** Validating the final model.
 
 ---
